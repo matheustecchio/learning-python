@@ -1,3 +1,4 @@
+
 # %%
 # Variable examples
 
@@ -49,6 +50,7 @@ my_tuple[1] = "REPLACE"     # ERROR, because tuples are immutable
 # Dictionary examples
 
 keys = {"key1":"bK3h%UJd&", "key2":"Jl1&oPa"}
-keys["key1"]                #>> 'bK3h%UJd&'
+print(keys["key1"])
 
-# %%
+keys["key1"] = "NEWbK3h%UJd&"
+print(keys["key1"])
