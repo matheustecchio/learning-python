@@ -1,8 +1,10 @@
-#%% Variable exemples
+# %% 
+# Variable exemples
 a = 1
 b = 1.5
 c = "string"
-#%% .format exemple
+# %% 
+# .format exemple
 name = "Matheus"
 age = 19
 
