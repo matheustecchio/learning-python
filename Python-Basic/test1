@@ -1,9 +1,6 @@
-print("")
-
-
 num = 26
 name = "Matheus"
 
 print("My name is {} and my number is {}".format(name, num))
 # or
-print("My name is {one} and my number is {two}".format(one=name, two=num))
+print("My name is {one} and my number is {two}, and {two}".format(one=name, two=num))
