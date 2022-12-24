@@ -42,7 +42,7 @@ print(my_list)
 # Tuple examples
 
 my_tuple = (1, 2, 3, 4, 5)
-my_tuple[1] = "REPLACE"     # Error, because tuples are immutable
+my_tuple[1] = "REPLACE"     # ERROR, because tuples are immutable
 
 # %%
 # Dictionary examples
