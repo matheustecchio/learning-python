@@ -5,8 +5,9 @@ int = 1
 float = 1.5
 string = "string"
 list = [1, 2, 3, 4, 5]
-my_tuple = (1, 2, 3, 4, 5)
+tuple = (1, 2, 3, 4, 5)
 dictionary = {"key1":"bK3h%UJd&", "key2":"Jl1&oPa"}
+set = {1, 1, 1, 2, 2, 2, 3, 3, 3}
 
 # %%
 # .format examples
