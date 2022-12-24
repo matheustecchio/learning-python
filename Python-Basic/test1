@@ -1,6 +1,12 @@
-num = 26
+#%% Variable exemples
+a = 1
+b = 1.5
+c = "string"
+#%% .format exemple
 name = "Matheus"
+age = 19
 
-print("My name is {} and my number is {}".format(name, num))
+print("My name is {} and my age is {}.".format(name, age))
 # or
-print("My name is {one} and my number is {two}, and {two}".format(one=name, two=num))
+print("My name is {one} and my age is {two}, yes {two}.".format(one=name, two=age))
+# %%
