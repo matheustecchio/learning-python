@@ -38,8 +38,8 @@ print(not(x < y))              # Not
 #%%
 # Identity Operators
 
-x = 20
-y = 10
+x = 10
+y = 10.0
 
 print(x is y)       # Is
 print(x is not y)   # Is not
