@@ -44,6 +44,14 @@ y = 10
 print(x is y)       # Is
 print(x is not y)   # Is not
 
+#%%
+# Membership Operators
+
+list = ["Laptop", "Mouse", "Keyboard"]
+
+print("Laptop" in list)     # In
+print("Mouse" not in list)  # Not in
+
 #%% 
 # Boolean examples
 
