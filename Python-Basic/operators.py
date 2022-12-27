@@ -25,6 +25,16 @@ print(x > y)    # Less than
 print(x <= y)   # Greater than or equal to
 print(x >= y)   # Less than or equal to
 
+#%%
+# Logical Operators
+
+x = 20
+y = 10
+
+x > y and (y * 2) != x  # And
+x > y or (y * 2) != x   # Or
+not(x < y)              # Not
+
 #%% 
 # Boolean examples
 
