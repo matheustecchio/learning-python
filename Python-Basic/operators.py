@@ -35,6 +35,15 @@ print(x > y and (y * 2) != x)  # And
 print(x > y or (y * 2) != x)   # Or
 print(not(x < y))              # Not
 
+#%%
+# Identity Operators
+
+x = 20
+y = 10
+
+print(x is y)       # Is
+print(x is not y)   # Is not
+
 #%% 
 # Boolean examples
 
