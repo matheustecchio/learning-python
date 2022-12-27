@@ -31,9 +31,9 @@ print(x >= y)   # Less than or equal to
 x = 20
 y = 10
 
-x > y and (y * 2) != x  # And
-x > y or (y * 2) != x   # Or
-not(x < y)              # Not
+print(x > y and (y * 2) != x)  # And
+print(x > y or (y * 2) != x)   # Or
+print(not(x < y))              # Not
 
 #%% 
 # Boolean examples
