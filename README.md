@@ -6,30 +6,24 @@ This repository is about my learning in Python.
 
 The following requirements must be met:
 
-* Install `Python`.
+1. Install `Python 3`.
+2. Install a **Visual Studio Code**(recommended) or **Spyder IDE** or a Python IDE that has integration with Jupyter Notebooks.
 
 ## 💾 Installation
 
 To install, please follow these instructions:
 
-Linux / macOS:
 ```
-intallation command
-```
-
-Windows:
-```
-intallation command
+$ git clone https://github.com/matheustecchio/learning-python.git
 ```
 
 ## 🖱 How to use
 
-To use this project, follow these commands:
+1. After, open the .py file with IDE(must be integrated with Jupyter).
+2. Run each Notebook Cell separately. The Cell is separated with `#%%`
 
-```
-run commands
-```
-  
+OBS: If you want run with Jupyter, you need to convert the .py file to .ipynb, with a Notebook Converter and run it.
+
 ## 📛 Developer
 
 <table>
