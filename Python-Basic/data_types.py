@@ -54,3 +54,11 @@ print(keys["key1"])
 
 keys["key1"] = "NEWbK3h%UJd&"
 print(keys["key1"])
+
+#%%
+# Boolean examples (TRUE and FALSE)
+
+print(1 < 2)
+print(1 < 1)
+print(1 == 1)
+print(1 >= 1)

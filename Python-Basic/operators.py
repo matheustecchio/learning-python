@@ -51,11 +51,3 @@ list = ["Laptop", "Mouse", "Keyboard"]
 
 print("Laptop" in list)     # In
 print("Mouse" not in list)  # Not in
-
-#%% 
-# Boolean examples
-
-print(1 < 2)
-print(1 < 1)
-print(1 == 1)
-print(1 >= 1)
