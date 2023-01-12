@@ -19,10 +19,8 @@ $ git clone https://github.com/matheustecchio/learning-python.git
 
 ## 🖱 How to use
 
-1. After, open the .ipynb file with IDE(must be integrated with Jupyter).
-2. Run each Notebook Cell separately. The Cell is separated with `#%%`
-
-NOTE: if you want run with Jupyter, you need to convert the .py file to .ipynb, with a Notebook Converter and run it.
+1. After, open the .ipynb file with IDE(must be integrated with Jupyter Notebook).
+2. Run each Notebook Cell separately.
 
 ## 📛 Developer
 
